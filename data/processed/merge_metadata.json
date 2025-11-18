@@ -1,0 +1,12 @@
+{
+  "total_matched": 24772,
+  "total_248k": 248218,
+  "total_11k": 11825,
+  "coverage_248k_percent": 9.979936990870927,
+  "coverage_11k_percent": 209.48837209302326,
+  "unmatched_248k": 224240,
+  "unmatched_11k": 4756,
+  "total_unique_medicines": 253768,
+  "merge_method": "drug_key_prefix_match",
+  "match_threshold": "85% similarity"
+}

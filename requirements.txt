@@ -1,0 +1,15 @@
+pandas
+numpy
+scikit-learn
+xgboost
+tensorflow
+matplotlib
+seaborn
+fuzzywuzzy
+python-Levenshtein
+nltk
+spacy
+google-generativeai
+python-dotenv
+jupyter
+ipykernel

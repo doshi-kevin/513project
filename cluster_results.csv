@@ -1,0 +1,61 @@
+cluster_id,size,primary_class,n_classes,top_medicines
+7,2184,DERMA,13,a arti l 80mg/480mg tablet | a clin gel | a pan 40mg tablet
+1,2161,GYNAECOLOGICAL,17,a arti 60mg injection | a con 150mg injection | a kare combipack
+27,1942,ANTI DIABETIC,1,abvida 100mg tablet sr | abvida 50mg tablet | abvida m 850mg/50mg tablet
+42,1728,ANTI INFECTIVES,6,a c ford 100mg tablet | a c ford 200mg tablet | a c ford kid 200mg tablet
+50,1460,PAIN ANALGESICS,9,a 250 suspension | a 3 100 mg/500 mg tablet | a clo p 100mg/325mg tablet
+25,1322,CARDIAC,1,a 1 5mg tablet | ace 2.5mg tablet | acmetel 40 tablet
+18,968,CARDIAC,2,abel 10mg tablet | abel 20mg tablet | abel 40 tablet
+4,744,RESPIRATORY,11,a xanthin 100mg tablet | ab day 100mg capsule | ab day 200mg capsule sr
+31,698,GASTRO INTESTINAL,2,a pandom 30mg/40mg tablet sr | a rab d 30mg/20mg capsule | acera 20 capsule
+55,641,UROLOGY,8,acocontin tablet cr | addkay tablet pr | aga tablet
+13,641,CARDIAC,2,a vin 10mg tablet | ab rozu f 160mg/10mg tablet | ab vas 10mg tablet
+16,600,NEURO CNS,1,brevipil 100 tablet | brevipil 25 tablet | brevipil 50 tablet
+59,596,NEURO CNS,3,a gab 400mg/10mg tablet | acenac-n tablet pr | adgaba 300mg tablet
+29,593,ANTI INFECTIVES,7,a pen 1000mg injection | a xon sb 1000mg/500mg injection | ab penem 200mg tablet
+45,450,RESPIRATORY,1,aa m syrup | admont-lc tablet | afineday tablet
+40,450,DERMA,1,abzorb 1% cream | abzorb b cream | abzorb syndet bar
+53,416,OPHTHAL,6,ace itra 100 capsule | af 150 tablet dt | af 200 tablet
+2,384,OPHTHAL,4,a flox or 200mg/500mg tablet | a flox oz 200 mg/500 mg tablet | a flox oz 200mg/500mg tablet
+30,383,RESPIRATORY,5,a cort 0.5mg tablet | aa 5 tablet | abitol 2mg/5ml syrup
+5,347,RESPIRATORY,2,a cold 5mg/500mg/30mg tablet | a cold suspension | ab cold tablet
+28,336,NEURO CNS,1,amicon 10 tablet | amicon 25mg tablet | amicon 50mg tablet
+32,303,ANTI NEOPLASTICS,6,a pin 50mg tablet | abhayrab-pf vaccine | advacan 0.25mg tablet
+11,297,DERMA,1,a to z cream | acnox soap | afderm-mn + cream
+22,288,RESPIRATORY,1,act 5 mg/60 mg tablet | act syrup | aerodil lp 20 mg suspension
+19,273,CARDIAC,6,a vin as 10mg/75mg tablet | acitrom 0.5 tablet | acitrom 1 tablet
+41,249,DERMA,3,acvaketo soap | af-ter cream | af-ter lotion
+8,248,ANTI INFECTIVES,8,a bec l 600mg/300mg tablet | a fresh mouth wash | acetik ear drop
+9,245,PAIN ANALGESICS,4,ac mr 100 mg/4 mg tablet | aceclan-th tablet | acelera-th tablet
+12,234,GASTRO INTESTINAL,6,abel m syrup | aciloc-s suspension sugar free | acinil-o oral suspension
+3,227,GASTRO INTESTINAL,5,a nil tablet | ad 10mg sachet | ad 10mg tablet dt
+49,220,RESPIRATORY,1,a rex syrup | aa ha syrup | aa ha tablet
+0,203,DERMA,3,ab cort 6mg tablet | anort 30 tablet | anort 6 tablet
+33,197,ANTI INFECTIVES,3,af-ter 250mg tablet | ambilon 50mg injection | amfocin cream
+6,197,CARDIAC,7,accept-xl tablet | aldonil plus tablet sr | aldonil tablet
+10,191,GASTRO INTESTINAL,1,all klear granules | alpicno 5mg/5ml syrup | colospa retard capsule
+38,175,NEURO CNS,3,a rex 10mg tablet | a rex 25mg tablet | a rex 50mg injection
+52,173,NEURO CNS,1,a pine 100mg tablet | a pine 50mg tablet | agoprex tablet
+14,168,PAIN ANALGESICS,5,a kort 40mg injection | anoscha forte tablet | aquim 0.18% eye gel
+47,154,ANTI DIABETIC,3,actrapid 100 iu/ml flexpen | actrapid 100iu/ml solution for injection | actrapid hm 100iu/ml penfill
+34,153,PAIN ANALGESICS,6,a pain plus 100mg/325mg/250mg tablet | ace cloud mr 100mg/325mg/250mg tablet | ace proxyvon spas tablet
+26,142,ANTI INFECTIVES,3,a zole 400mg tablet | abd 200mg suspension | abd 400mg tablet
+21,129,RESPIRATORY,8,abmac tablet | abrophyll-dm tablet | aerocort 100mcg/50mcg inhaler
+24,122,ANTI NEOPLASTICS,5,abirapro 250mg tablet | abirapro 500mg tablet | arimidex 1mg tablet
+46,109,BLOOD RELATED,2,anfoe 10000iu injection | anfoe 2000iu injection | anfoe 4000iu injection
+20,109,OPHTHAL,7,a pred 20mg tablet | a pred 5mg tablet | acupat ophthalmic solution
+37,108,GASTRO INTESTINAL,1,a tron 2mg injection | a tron 4mg tablet md | b don 4mg tablet md
+23,102,OPHTHAL OTOLOGICALS,4,betadine 10% ointment | betadine 10% ointment | betadine 10% solution
+48,89,CARDIAC,1,advastat cv 10 capsule | advastat cv 20 capsule | arvast cv 10 capsule
+56,72,NEURO CNS,4,betacap plus 10 capsule sr | betacap plus 5 capsule sr | betacap plus ls capsule
+57,66,RESPIRATORY,2,betagel | betasalic cream | betasalic lotion
+43,63,ANTI NEOPLASTICS,5,acutrol 400 tablet | acutrol 800 tablet | acutrol c 400 tablet
+17,59,GASTRO INTESTINAL,1,act nvp tablet | akynzeo 300mg/0.5mg capsule | aprecap 125/80 capsule
+58,59,OPHTHAL,1,acular  ophthalmic solution | acular ls ophthalmic solution | adbrom free eye drop
+51,54,CARDIAC,2,e prin 75mg tablet | ecosprin 150 tablet | ecosprin 75 tablet
+35,54,NEURO CNS,1,encorate chrono 200 tablet cr | encorate chrono 300 tablet cr | encorate chrono 400 tablet cr
+39,47,OPHTHAL,3,abpress eye drop | abpress pf eye drop | albrim 2% eye drop
+44,41,OPHTHAL,2,a waylable eye drop | eflo 0.1% eye ointment | eflo eye drop
+15,39,RESPIRATORY,5,ac plus oral suspension | ace plus oral suspension | acemiz plus oral suspension
+54,36,CARDIAC,1,arbitel-av tablet | asomex cv 2.5 mg/10 mg tablet | asomex cv 5 mg/10 mg tablet
+36,33,OPHTHAL OTOLOGICALS,3,apdrops lp  eye drop bak free | gb mox lp eye drop | kitmox-ld  opthalmic suspension

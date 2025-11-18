@@ -1,0 +1,42 @@
+# Data files
+data/raw/*.csv
+data/processed/*.csv
+*.pickle
+*.pkl
+*.joblib
+
+# Models
+models/*.pkl
+models/*.h5
+models/*.pt
+models/*.joblib
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+.venv
+pip-log.txt
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Environment
+.env
+.env.local

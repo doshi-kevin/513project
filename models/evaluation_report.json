@@ -1,0 +1,85 @@
+{
+  "phase": "Phase 2: ML Model Training",
+  "timestamp": "2025-11-18T22:30:19.992288",
+  "training_data": {
+    "total_samples": 24772,
+    "features": 80,
+    "classes": 23,
+    "class_names": [
+      "ANTI DIABETIC",
+      "ANTI INFECTIVES",
+      "ANTI MALARIALS",
+      "ANTI NEOPLASTICS",
+      "BLOOD RELATED",
+      "CARDIAC",
+      "DERMA",
+      "GASTRO INTESTINAL",
+      "GYNAECOLOGICAL",
+      "HORMONES",
+      "NEURO CNS",
+      "OPHTHAL",
+      "OPHTHAL OTOLOGICALS",
+      "OTHERS",
+      "OTOLOGICALS",
+      "PAIN ANALGESICS",
+      "RESPIRATORY",
+      "SEX STIMULANTS REJUVENATORS",
+      "STOMATOLOGICALS",
+      "UROLOGY",
+      "Unknown",
+      "VACCINES",
+      "VITAMINS MINERALS NUTRIENTS"
+    ]
+  },
+  "test_data": {
+    "samples": 4955,
+    "features": 80
+  },
+  "model_performance": {
+    "SVM": {
+      "accuracy": 0.9109989909182644,
+      "model_type": "SVM (RBF kernel)"
+    },
+    "XGBoost": {
+      "accuracy": 1.0,
+      "model_type": "XGBoost (100 trees, depth=10)",
+      "note": "Perfect accuracy may indicate overfitting"
+    },
+    "RandomForest": {
+      "accuracy": 0.9850655903128154,
+      "model_type": "Random Forest (100 trees, depth=15)"
+    },
+    "Ensemble": {
+      "accuracy": 0.998183652875883,
+      "method": "Average probability voting",
+      "confidence_mean": 0.9118791544951738,
+      "confidence_std": 0.13812571052209
+    }
+  },
+  "class_distribution": {
+    "top_5_classes": {
+      "CARDIAC": 756,
+      "ANTI INFECTIVES": 590,
+      "NEURO CNS": 582,
+      "RESPIRATORY": 462,
+      "PAIN ANALGESICS": 443
+    }
+  },
+  "files_saved": [
+    "svm_model.pkl",
+    "xgboost_model.pkl",
+    "random_forest_model.pkl",
+    "ensemble_model.pkl",
+    "scaler.pkl",
+    "target_encoder.pkl",
+    "model_comparison.png",
+    "feature_importance.png",
+    "confusion_matrix.png"
+  ],
+  "recommendations": [
+    "\u2713 Use ensemble model for predictions (combines strengths of all 3)",
+    "\u26a0 XGBoost shows signs of overfitting (100% accuracy) - ensemble voting helps",
+    "\u2713 Average confidence across ensemble: 91.19%",
+    "\u2713 Models ready for deployment and integration with VS Code pipeline"
+  ]
+}

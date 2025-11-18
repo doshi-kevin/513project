@@ -1,0 +1,35 @@
+MODEL EVALUATION REPORT
+======================================================================
+
+Test Accuracy: 0.9981
+Test F1 Score: 0.9980
+
+                             precision    recall  f1-score   support
+
+              ANTI DIABETIC       1.00      1.00      1.00       631
+            ANTI INFECTIVES       1.00      1.00      1.00       885
+             ANTI MALARIALS       0.91      0.95      0.93        21
+           ANTI NEOPLASTICS       1.00      0.97      0.98       101
+              BLOOD RELATED       1.00      1.00      1.00       110
+                    CARDIAC       1.00      1.00      1.00      1133
+                      DERMA       1.00      1.00      1.00       650
+          GASTRO INTESTINAL       1.00      1.00      1.00       629
+             GYNAECOLOGICAL       0.99      0.99      0.99       200
+                   HORMONES       0.99      0.98      0.99       103
+                  NEURO CNS       1.00      1.00      1.00       873
+                    OPHTHAL       1.00      1.00      1.00       346
+        OPHTHAL OTOLOGICALS       0.99      1.00      0.99        82
+                     OTHERS       1.00      1.00      1.00        21
+                OTOLOGICALS       0.91      0.91      0.91        11
+            PAIN ANALGESICS       1.00      1.00      1.00       664
+                RESPIRATORY       1.00      1.00      1.00       692
+SEX STIMULANTS REJUVENATORS       1.00      0.98      0.99        42
+            STOMATOLOGICALS       1.00      1.00      1.00        13
+                    UROLOGY       0.99      1.00      1.00       106
+                    Unknown       0.00      0.00      0.00         1
+                   VACCINES       1.00      1.00      1.00        30
+VITAMINS MINERALS NUTRIENTS       1.00      1.00      1.00        88
+
+                   accuracy                           1.00      7432
+                  macro avg       0.95      0.95      0.95      7432
+               weighted avg       1.00      1.00      1.00      7432
