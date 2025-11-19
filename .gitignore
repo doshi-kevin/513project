@@ -1,15 +1,4 @@
-# Data files
-data/raw/*.csv
-data/processed/*.csv
-*.pickle
-*.pkl
-*.joblib
 
-# Models
-models/*.pkl
-models/*.h5
-models/*.pt
-models/*.joblib
 
 # Python
 __pycache__/
